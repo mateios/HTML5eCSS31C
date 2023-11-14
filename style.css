@@ -7,6 +7,7 @@ h1{
 p{
     text-align: center;
 }
-em strong {
+
+strong {
     background:maroon;
 }
