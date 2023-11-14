@@ -1,5 +1,5 @@
 boby {
-    background-color: chartreuse;
+    background: chartreuse;
 }
 h1{
     text-align:center;
@@ -8,5 +8,5 @@ p{
     text-align: center;
 }
 em strong {
-    background-color:maroon;
+    background:maroon;
 }
